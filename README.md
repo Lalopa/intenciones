@@ -42,4 +42,4 @@ onTap: () async {
           }
         },
 ```
-[Vista Principal]: 
+[Vista Principal]: https://github.com/Lalopa/intenciones/blob/master/images/vista.gif
